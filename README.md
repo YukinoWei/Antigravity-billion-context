@@ -1,4 +1,4 @@
-# Billion Context Studio (v3.0)
+# Billion Context Studio (v3.2)
 
 面向 **Google Antigravity** 的原生上下文压缩与配额管理插件。采用纯 **Python 3.12 标准库**实现（零外部 `pip` / `npm` 依赖），帮你解决长对话上下文爆窗、KV-Cache 失效、大文件/日志重复消耗 Token 与会话卡死问题。
 
