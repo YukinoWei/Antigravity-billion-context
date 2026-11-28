@@ -28,7 +28,7 @@
 
 ```powershell
 # 1. 克隆仓库或解压源码发布包
-git clone https://github.com/<your-username>/billion-context-studio.git
+git clone https://github.com/<YukinoWei>/billion-context-studio.git
 cd billion-context-studio
 
 # 2. 一键安装到 ~/.gemini/config/plugins/billion-context 并热重载 MCP
